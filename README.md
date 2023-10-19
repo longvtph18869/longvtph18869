@@ -8,9 +8,12 @@ I'm a Fullstack Developer from Vietnam, based in Hanoi.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/18.of.August/)
 
 ### Technologies and Tools
+![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript Logo](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&style=flat)
 ![Typescript Logo](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6&style=flat)
 ![React Logo](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB&style=flat)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Redux logo](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC&style=flat)
 ![Nodejs logo](https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200&style=flat)
 ![Express logo](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF&style=flat)
